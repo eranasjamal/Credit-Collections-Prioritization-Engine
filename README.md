@@ -144,7 +144,7 @@ Credit-Collections-Prioritization-Engine/
 
 ## Project Outcome
 
-This project helped me understand how collections and recovery teams analyze delinquent accounts, monitor recovery performance, and prioritize operational actions using data analytics tools.
+Designed an end-to-end collections analytics solution to support recovery monitoring, delinquency analysis, operational performance tracking, and high-risk account prioritization using Python, MySQL, and Power BI.
 
 ---
 
