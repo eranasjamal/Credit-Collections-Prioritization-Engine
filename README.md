@@ -116,29 +116,39 @@ Based on this score, accounts were categorized into:
 
 ## Project Structure
 
-```text
 Credit-Collections-Prioritization-Engine/
-│
+
 ├── data/
-│   ├── customers_raw.csv
-│   ├── loans_raw.csv
-│   ├── collections_status_raw.csv
-│   ├── analytics_dataset.csv
+
+│ ├── customers_raw.csv
+
+│ ├── loans_raw.csv
+
+│ ├── collections_status_raw.csv
+
+│ ├── analytics_dataset.csv
+
 │
+
 ├── notebooks/
-│
+
 ├── sql/
-│
+
 ├── powerbi/
-│
+
 ├── screenshots/
-│   ├── executive_overview.png
-│   ├── collections_operations.png
+
+│ ├── executive_overview.png
+
+│ ├── collections_operations.png
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
-```
 
 ---
 
