@@ -120,16 +120,6 @@ Credit-Collections-Prioritization-Engine/
 
 ├── data/
 
-│ ├── customers_raw.csv
-
-│ ├── loans_raw.csv
-
-│ ├── collections_status_raw.csv
-
-│ ├── analytics_dataset.csv
-
-│
-
 ├── notebooks/
 
 ├── sql/
